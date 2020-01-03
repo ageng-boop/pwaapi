@@ -1,6 +1,6 @@
 {
-FIREFIGHTER
-[{"name":"Finlay Maryska","location 1":48.2629668,"location 2":25.1738286,"Temperature":36,"no":"+380 536 939 7100"},
+" FIREFIGHTER ":[
+{"name":"Finlay Maryska","location 1":48.2629668,"location 2":25.1738286,"Temperature":36,"no":"+380 536 939 7100"},
 {"name":"Frank Killby","location 1":20.6523028,"location 2":-87.0696273,"Temperature":41,"no":"+52 948 894 9287"},
 {"name":"Bamby McCutcheon","location 1":28.901462,"location 2":118.511235,"Temperature":61,"no":"+86 459 447 3845"},
 {"name":"Fredric Matiebe","location 1":12.4315534,"location 2":-86.8722146,"Temperature":83,"no":"+505 245 503 3058"},
